@@ -1,17 +1,17 @@
 # FUTURE_ML_01
 # FUTURE ML Task 01 - Sales & Demand Forecasting
 
-## 📌 About the Project
+# About the Project
 
 This project focuses on building a Machine Learning model to forecast future sales using historical data. It demonstrates how data can be used to identify patterns and predict upcoming demand.
 
-## 🎯 Objective
+# Objective
 
 * Predict future sales based on past data
 * Understand trends and seasonality
 * Present results in a clear and simple way
 
-## ⚙️ Tools Used
+# Tools Used
 
 * Python
 * Pandas
@@ -19,7 +19,7 @@ This project focuses on building a Machine Learning model to forecast future sal
 * Scikit-learn
 * Matplotlib
 
-## 🔄 Project Workflow
+# Project Workflow
 
 1. Data preparation and cleaning
 2. Feature engineering (date, trends)
@@ -27,6 +27,6 @@ This project focuses on building a Machine Learning model to forecast future sal
 4. Prediction of future sales
 5. Visualization of results
 
-## 📈 Result
+# Result
 
 The model is able to predict future sales trends based on historical data. The visualizations clearly show the comparison between actual and predicted values.
