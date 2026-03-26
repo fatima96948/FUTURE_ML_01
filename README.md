@@ -1,7 +1,7 @@
-#FUTURE_ML_01
-#FUTURE ML Task 01 - Sales & Demand Forecasting
+# FUTURE_ML_01
+# FUTURE ML Task 01 - Sales & Demand Forecasting
 
-#About the Project
+# About the Project
 
 This project focuses on building a Machine Learning model to forecast future sales using historical data. It demonstrates how data can be used to identify patterns and predict upcoming demand.
 
